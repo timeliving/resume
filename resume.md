@@ -1,83 +1,46 @@
-# David Hamp-Gonsalves
-## Senior Developer & Code Enthusiast
+# 徐小东
+## 系统管理员 & 开发者
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
+> [linuxtoy.org](http://linuxtoy.org)
+> [xxdlhy [at] gmail.com](mailto:xxdlhy@gmail.com)
+> (86) 18201096917
 
 ------
 
-### Technical
+### 技术
 
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
+1. GNU/Linux
+1. Shell Scripting
+1. Perl
 1. Python
-1. Git / SVN
-1. Cordova
-<!-- 1. Spring / Wicket -->
 1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+1. JavaScript / jQuery
+1. MySQL
+1. Git
+1. Ansible
 
 ------
 
-### Experience
+### 经历
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
-
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
-	Designed and implemented features and improvements for multiple enterprise sized applications.
-	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
-	Provided quality solutions to mission critical production issues in a timely manner.
-	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
-	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
-
-**We Can Pretend** *Technical Consultant* __2011__
-	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
-	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
-	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
-	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
-
-<!--
-**Redline Distribution** *Web Application Developer* __2008__
-	Wrote a versatile Java EE based, database-driven, e-commerce system for the real time sale, processing and shipping of products available from external distributors such as Baker-Taylor and DeepDiscount.
-	The system interfaced with external distributors to ensure current inventory, status and price and used AJAX rich components to improve usability, convenience and efficiency.
-	**Technical Environment** JBoss, Seam, MySQL, Hibernate, JSF, RichFaces, EJB.
--->
-
-**CIBC** *Test Analyst* __2007 to 2008__
-	Eliminated manual testing processes with automated QTP scripts to increase productivity and limit repetitive human task based testing.
-	Worked cohesively with other developers and team members to plan, design and implement multi-system automated tests which simulate multiple users and roles.
-	**Technical Environment** VB, Quick Test Professional.
+**Linuxtoy** *创始人及主编* __2006 ~ 现在__
+	网站架构，内容创作。
 
 ------
 
-### Projects
+### 项目
 
-* **Ethical Barcode**
-	[ethicalbarcode.com](http://www.ethicalbarcode.com)
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+* **Linuxtoy**
+	[linuxtoy.org](http://linuxtoy.org)
+	2006 年创办，迄今已 8 年。坚持原创，及时报道 Linux 及开源界新鲜资讯、分享酷软及使用心得，积聚了一大批铁杆读者。
 
-* **Halifax Crime Heatmap**
-	[crimeheatmap.ca](http://www.crimeheatmap.ca)
-	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
-
-* **Foxish**
-	[chrome.google.com](https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb)
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
+* **沉浸式学 Git**
+    [igit.linuxtoy.org](http://igit.linuxtoy.org)
+    独立翻译完成 Jim Weirich 的 Git Immersion。这是一份强调通过实践来掌握 Git 基础用法的指南。
 
 ------
 
-### Education
+### 教育
 
-**Bachelor of Technology (Software Development)** __2003 to 2007__
-	Seneca College of Applied Arts and Technology (Seneca@York), Toronto, Ontario
+**汉语言文学教育** __2000 ~ 2004__
+	西华师范大学
