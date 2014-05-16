@@ -32,7 +32,7 @@
 
 * **Linuxtoy** __2006__
     [linuxtoy.org](http://linuxtoy.org)
-    2006 年创办，迄今已 8 年。坚持原创，及时报道 Linux 及开源界新鲜资讯、分享酷软及使用心得，积聚了一大批铁杆读者。
+    创办于 2006 年，至始至终坚持原创，迄今已经积聚了一大批铁杆读者。
 
 * **Perl 程序员应该知道的事** __2013__
     [perl.linuxtoy.org](http://perl.linuxtoy.org)
@@ -41,6 +41,32 @@
 * **沉浸式学 Git** __2014__
     [igit.linuxtoy.org](http://igit.linuxtoy.org)
     独立翻译 Jim Weirich 的 Git Immersion。这本小册子强调通过实践来掌握 Git 基础用法。
+
+------
+
+### 代码
+
+* **tmuxen** *Shell* __2012__
+    [tmuxen](http://github.com/xuxiaodong/tmuxen)
+    tmux 生活更容易。
+
+* **vimenv** *Ruby* __2012__
+    [vimenv](http://github.com/xuxiaodong/vimenv)
+    方便迁移 Vim 环境。
+
+* **dotman** *Perl* __2012__
+    [dotman](http://github.com/xuxiaodong/dotman)
+    超简单的 dotfiles 管理器。
+
+------
+
+### 演讲
+
+* **开源技术大会** __2014__
+    [像黑客一样使用 Linux 命令行](http://talk.linuxtoy.org/using-cli/)
+
+* **Beijing Perl Workshop** __2013__
+    [MonsterWM -- 兼谈 Linux 桌面最小化及定制](http://talk.linuxtoy.org/using-mwm/)
 
 ------
 
