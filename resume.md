@@ -48,11 +48,11 @@
 
 * **tmuxen** *Shell* __2012__
     [tmuxen](http://github.com/xuxiaodong/tmuxen)
-    tmux 生活更容易。
+    使 tmux 生活更容易。
 
-* **vimenv** *Ruby* __2012__
-    [vimenv](http://github.com/xuxiaodong/vimenv)
-    方便迁移 Vim 环境。
+* **~/bin** *Shell, Perl, Python, Ruby* __2012__
+    [bin](https://github.com/xuxiaodong/bin)
+    各种各样且方便实用的小工具。
 
 * **dotman** *Perl* __2012__
     [dotman](http://github.com/xuxiaodong/dotman)
