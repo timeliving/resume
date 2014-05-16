@@ -46,15 +46,15 @@
 
 ### 代码
 
-* **tmuxen** *Shell* __2012__
+* **tmuxen** *Shell*
     [tmuxen](http://github.com/xuxiaodong/tmuxen)
     使 tmux 生活更容易。
 
-* **~/bin** *Shell, Perl, Python, Ruby* __2012__
+* **~/bin** *Shell, Perl, Python, Ruby*
     [bin](https://github.com/xuxiaodong/bin)
     各种各样且方便实用的小工具。
 
-* **dotman** *Perl* __2012__
+* **dotman** *Perl*
     [dotman](http://github.com/xuxiaodong/dotman)
     超简单的 dotfiles 管理器。
 
