@@ -1,117 +1,75 @@
-# 徐小东
-## 系统管理员 & 开发者
 
-> [linuxtoy.org](http://linuxtoy.org)
-> [xxdlhy [at] gmail.com](mailto:xxdlhy@gmail.com)
-> (+86) 182-0109-6917
 
-------
+# 毛文浩
+## 求职意向 Java开发
+
+> <img src="./Img27935.jpg" div align="right" width = "40%" height = "40%" />
+
+#### 现住址: 深圳
+
+#### 邮箱: [lyamwh@gmail.com](mailto:lyamwh@gmail.com)
+
+#### 联系方式: 131-1392-7710
+
+-----
 
 ### 技术
 
+1. Java
 1. GNU/Linux
 1. Shell Scripting
-1. Perl
-1. Python
-1. Ruby
 1. JavaScript / jQuery
-1. Bootstrap
 1. MySQL
+1. Oracle
 1. NGINX
-1. Squid
 1. Git
-1. Ansible
+1. Vue
 
 ------
 
 ### 经历
 
-**北京视观环宇科技有限公司** *Perl 研发工程师* __2013.6 ~ 2014.5__
-    开发内部业务项目，使用 Perl 开发财务对帐系统并按需生成 Excel 报表，通过 Dancer Web 框架、JavaScript、jQuery、Bootstrap 开发基于 Web 界面的电子书编辑工具、漫画切图工具。
-    管理视频服务器，引入 Ansible 批量执行及配置管理工具，实现 NGINX、Squid 等服务的自动化部署。
-    **技术环境**：Perl、Dancer、JavaScript、jQuery、Bootstrap、CentOS、NGINX、Squid、Ansible、Shell Scripting、ImageMagick、Git
+**深圳科南软件有限公司** *初级Java开发工程师* __2018.5 ~ 至今__
+  负责公司承接对外erp类项目的开发，使用Spring框架、AngularJS开发基于 Web 端的金融借贷项目，实现了借贷金额和利息的自动计算和计时提醒功能。
+  &middot; 使用Jenkins实现项目自动化构建部署，以及使用Jira实现开发过程中对需求的记录和问题的跟踪。
+  &middot; 同时参与开发了下面公司承接的中科院新一代ARP项目的开发和维护工作。
+    **技术环境**：Java、Spring、Hibernate、Mybatis、Shell Scripting、MySQL、Jenkins、Jira、Git、Svn、AngularJS、Vue
 
-**北京友宝昂莱科技有限公司** *Linux 系统工程师* __2011.5 ~ 2013.6__
-    负责对 Linux 内核及系统进行裁剪和定制。
-    通过 Shell 脚本和 Perl 编程实现任务自动化，如开发 Resbox 一键系统部署工具。
-    **技术环境**：Ubuntu、Shell Scripting、Perl
-
-**Linuxtoy.org** *创始人及主编* __2006.6 ~ 现在__
-    设计网站架构，对内容发布系统进行选型，用 NGINX 搭建 [Web 服务](https://linuxtoy.org)、Munin 和 Monit 搭建[监控服务](http://linuxtoy.org/m/)、cgit 搭建[源代码版本控制服务](http://git.linuxtoy.org)等。
-    持续不断的内容创作，如《[打造完美的 Linux 桌面——Arch Linux](http://linuxtoy.org/archives/the-perfect-linux-desktop-arch-linux-2007-08-2-1.html)》掀起用户争相使用 Arch Linux 的风潮、《[窗口管理器 Openbox 入门指南](http://linuxtoy.org/archives/openbox-getting-started-guide.html)》带领用户快速进入 Openbox 的门槛。
-    **技术环境**：WordPress、Debian、PHP、MySQL、NGINX、Lighttpd、Munin、Monit、Git
+**深圳拓安信计控仪表有限公司** *Java实习生* __2017.12 ~ 2018.4__
+  负责协助公司仪表监控项目由.Net开发环境迁移置Spring boot开发环境的开发和测试工作。
+  &middot; 通过Spring boot框架、JavaScript、Html开发基于 Web 界面的水表监控、预警项目，并且使用echarts图表实现对各水表数据的可视化。
+    **技术环境**：Java、C#、JavaScript、Spring、Spring boot、Mybatis、SVN、MySQL
 
 ------
 
 ### 项目
 
-* **Linuxtoy.org** __2006__
-    [linuxtoy.org](http://linuxtoy.org)
-    创办于 2006 年，至始至终坚持原创，迄今已经积聚了一大批铁杆读者。
-
-* **Perl 程序员应该知道的事** __2013__
-    [perl.linuxtoy.org](http://perl.linuxtoy.org)
-    翻译并增补 Andy Lester 所撰写的 Perl 101 一书，这本书以食谱形式来介绍 Perl 语言编程。
-
-* **沉浸式学 Git** __2014__
-    [igit.linuxtoy.org](http://igit.linuxtoy.org)
-    独立翻译 Jim Weirich 的 Git Immersion。这本小册子强调通过实践来掌握 Git 基础用法。
-
-------
-
-### 代码
-
-* **tmuxen** *Shell*
-    [tmuxen](http://github.com/xuxiaodong/tmuxen)
-    使 tmux 生活更容易。
-
-* **~/bin** *Shell, Perl, Python, Ruby*
-    [bin](https://github.com/xuxiaodong/bin)
-    各种各样且方便实用的小工具。
-
-* **WebService::TaobaoIP** *Perl*
-    [WebService::TaobaoIP](https://metacpan.org/release/WebService-TaobaoIP)
-    定位 IP 物理信息的 Perl 模块。
-
-------
-
-### 演讲
-
-* **开源技术大会** __2014__
-    [像黑客一样使用 Linux 命令行](http://talk.linuxtoy.org/using-cli/)
-
-* **Beijing Perl Workshop** __2013__
-    [MonsterWM -- 兼谈 Linux 桌面最小化及定制](http://talk.linuxtoy.org/using-mwm/)
+ **中国科学院新一代ARP项目** __2018.9 ~ 至今__
+  项目介绍：该项目为公司承接中科院对其使用的ARP系统的升级开发项目，由于前一代系统开发年限久远，以及新会计制度的实施，已经不符合现有业务需求和使用场景，因此重新开发了新系统。新系统前端采用Vue框架搭配ElementUI组件开发，后端使用Spring框架结合Jpa和Hibernate实现基于REST的Web服务，移动端使用MintUI框架实现。
+  &middot; 主要负责资产模块的功能开发和维护工作，实现了新会计制度下对资产的采购、验收、账务处理的需求开发。
+  &middot; 开发了资产模块对其他模块如(财务模块)业务接口设计，并且使用JUnit实现单元测试功能。
+  &middot; 使用Spring中的线程池技术利用多线程开发大数据量的计算功能，如对固定资产的折旧计算功能使得原有计算10000条数据需要4、5分钟的计算缩短至10秒内
+  &middot; 通过使用CountDownLatch对线程间加锁的方式实现用户点击的互斥操作，对多用户同时点击和单个用户刷新重复点击的行为进行判断并且返回相应的提示信息。
+  &middot; 实现excel导入导出数据功能，并且提供外部接口接入外部数据到本系统中及提供接口为外部系统输出数据。
+  &middot; 使用帆软报表实现财务资产对账报表，并且通过索引、减少表连接、分页等sql优化操作将一个20万条数据的报表查询条件降至10s内
+   **技术环境**：Java、Spring、Hibernate、Shell Scripting、Oracle、Git、Vue、NGINX
 
 ------
 
 ### 教育
 
-**汉语言文学教育** __2000 ~ 2004__
-    西华师范大学
+**软件工程** __2014 ~ 2018__
+    电子科技大学中山学院
 
 ------
 
 ### 兴趣
 
 * **GNU/Linux 系统管理**
-    Debian、Ubuntu、CentOS、Gentoo、Arch Linux
+    Ubuntu、CentOS、Arch Linux
 
 * **编程**
-    Shell Scripting、Perl、Python、Ruby、JavaScript
+    Java、SQL、Shell Scripting、JavaScript、Rust
 
 * **阅读**
-    小说、经济、心理、计算机等书籍
-
-------
-
-### 足迹
-
-* **GitHub**
-    [github.com/xuxiaodong](https://github.com/xuxiaodong)
-
-* **Twitter**
-    [twitter.com/xuxiaodong](https://twitter.com/xuxiaodong)
-
-* **LinkedIn**
-    [linkedin.com/xuxiaodong](http://www.linkedin.com/pub/xiaodong-xu/62/319/7)
+    小说、心理、计算机等书籍
